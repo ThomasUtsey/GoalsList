@@ -1,0 +1,18 @@
+body{
+    background-color: blue;
+}
+
+
+.container{
+    background-color:green;
+}
+
+header{
+    text-align: center;
+    background-color: lightblue;
+    font-family: sans-serif;
+    padding-top: 1%;
+}
+.card{
+    background-color: lightgrey;
+}

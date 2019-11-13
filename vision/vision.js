@@ -82,6 +82,7 @@ function removeTask(e) {
     }
   }
 }
+
 function removeTaskFromLocalStorage(taskItem) {
   let tasks;
   if (localStorage.getItem("tasks") === null) {
